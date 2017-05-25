@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/SwitchWeapons.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/EnemyController.js" Line="33" Column="3" />
+      <File FileName="Assets/_Scripts/PlayerControl.js" Line="57" Column="2" />
+      <File FileName="Assets/_Scripts/AdvancedAI.js" Line="9" Column="1" />
+      <File FileName="Assets/JunglePack/Standard Assets/Image Effects (Pro Only)/EdgeDetectEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/PlayerGUI.js" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/PauseMenu.cs" Line="31" Column="1" />
+      <File FileName="Assets/Flare Gun/Scripts/flaregun.cs" Line="12" Column="28" />
+      <File FileName="Assets/Flare Gun/Scripts/flarebullet.cs" Line="12" Column="30" />
+      <File FileName="Assets/_Scripts/TreeController.js" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/StoneController.js" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/SwitchWeapons.cs" Line="39" Column="27" />
+      <File FileName="Assets/_Scripts/RayCastChop.js" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/PlayerHealth.cs" Line="52" Column="1" />
+      <File FileName="Assets/_Scripts/PlayerShooting.cs" Line="2" Column="3" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/FPSInputController.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
